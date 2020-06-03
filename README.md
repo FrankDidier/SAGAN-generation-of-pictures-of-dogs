@@ -61,6 +61,7 @@ def attention_2(self, x, ch):
 ```
 ## Usage
 ### dataset
+Create a new folder and name it dataset and then follow below:
 
 * For `Our dataset`, put images like this:
 
@@ -85,7 +86,7 @@ def attention_2(self, x, ch):
 </div>
 
 ## Reference:
-## Author
+## Main Author
 Junho Kim
 
 ## Contributors
