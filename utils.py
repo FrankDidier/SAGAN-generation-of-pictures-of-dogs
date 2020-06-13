@@ -1,4 +1,5 @@
 import scipy.misc
+import imageio
 import numpy as np
 import os
 from glob import glob
@@ -105,7 +106,8 @@ def merge(images, size):
 
 def imsave(images, size, path):
     # image = np.squeeze(merge(images, size)) # 채널이 1인거 제거 ?
-    return scipy.misc.imsave(path, merge(images, size))
+    #return scipy.misc.imsave(path, merge(images, size))
+    return imageio.imwrite(path, merge(images, size))
 
 
 def inverse_transform(images):

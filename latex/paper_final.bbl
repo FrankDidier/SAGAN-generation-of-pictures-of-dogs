@@ -1,0 +1,40 @@
+\begin{thebibliography}{1}\itemsep=-1pt
+
+\bibitem{Bahdanau2014}
+D.~Bahdanau, K.~Cho, and Y.~Bengio.
+\newblock Neural machine translation by jointly learning to align and
+  translate, 2014.
+
+\bibitem{Brock2018}
+A.~Brock, J.~Donahue, and K.~Simonyan.
+\newblock Large scale gan training for high fidelity natural image synthesis,
+  2018.
+
+\bibitem{Cheng2016}
+J.~Cheng, L.~Dong, and M.~Lapata.
+\newblock Long short-term memory-networks for machine reading, 2016.
+
+\bibitem{Goodfellow2014}
+I.~J. Goodfellow, J.~Pouget-Abadie, M.~Mirza, B.~Xu, D.~Warde-Farley, S.~Ozair,
+  A.~Courville, and Y.~Bengio.
+\newblock Generative adversarial networks, 2014.
+
+\bibitem{Heusel2017}
+M.~Heusel, H.~Ramsauer, T.~Unterthiner, B.~Nessler, and S.~Hochreiter.
+\newblock Gans trained by a two time-scale update rule converge to a local nash
+  equilibrium.
+\newblock 2017.
+
+\bibitem{Salimans2016}
+T.~Salimans, I.~Goodfellow, W.~Zaremba, V.~Cheung, A.~Radford, and X.~Chen.
+\newblock Improved techniques for training gans, 2016.
+
+\bibitem{Zhang2018}
+H.~Zhang, I.~Goodfellow, D.~Metaxas, and A.~Odena.
+\newblock Self-attention generative adversarial networks, 2018.
+
+\bibitem{Zhang2019}
+X.~Zhang, S.~Karaman, and S.-F. Chang.
+\newblock Detecting and simulating artifacts in gan fake images, 2019.
+
+\end{thebibliography}

@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/Arch Linux)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: paper_final.aux
+The style file: ieee.bst
+Database file #1: fin.bib
+Warning--I didn't find a database entry for "Authors14"
+Warning--empty journal in Heusel2017
+You've used 8 entries,
+            2120 wiz_defined-function locations,
+            538 strings with 5030 characters,
+and the built_in function-call counts, 2480 in all, are:
+= -- 200
+> -- 199
+< -- 0
++ -- 78
+- -- 70
+* -- 169
+:= -- 433
+add.period$ -- 17
+call.type$ -- 8
+change.case$ -- 59
+chr.to.int$ -- 0
+cite$ -- 9
+duplicate$ -- 59
+empty$ -- 172
+format.name$ -- 70
+if$ -- 493
+int.to.chr$ -- 0
+int.to.str$ -- 8
+missing$ -- 1
+newline$ -- 36
+num.names$ -- 16
+pop$ -- 96
+preamble$ -- 1
+purify$ -- 51
+quote$ -- 0
+skip$ -- 63
+stack$ -- 0
+substring$ -- 40
+swap$ -- 7
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 32
+warning$ -- 1
+while$ -- 16
+width$ -- 9
+write$ -- 67
+(There were 2 warnings)

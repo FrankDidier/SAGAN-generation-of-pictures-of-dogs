@@ -26,3 +26,4 @@ tf-utils==1.0.4
 urllib3==1.25.9
 Werkzeug==1.0.1
 zipp==1.2.0
+imageio==2.8.0
